@@ -1,0 +1,6 @@
+begin 
+	while cd + 2 
+	do id := id + 1 
+	
+end
+
